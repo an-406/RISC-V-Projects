@@ -1,0 +1,36 @@
+-sverilog
+-timescale=1ns/100ps
+# TESTBENCH FILES
+./../01_tb/driver.sv
+./../01_tb/scoreboard.sv
+./../01_tb/tbench.sv
+#./../01_tb/tb_addr_decoder.sv
+#./../01_tb/tb_alu.sv
+#./../01_tb/tb_barrel_shifter.sv
+#./../01_tb/tb_brc.sv
+#./../01_tb/tb_control_unit.sv
+#./../01_tb/tb_immgen.sv
+#./../01_tb/tb_lsu.sv
+./../01_tb/tlib.svh
+# SOURCE CODE FILES
+./../00_src/add.sv
+./../00_src/addr_decoder.sv
+./../00_src/add_subtract.sv
+./../00_src/alu.sv
+./../00_src/barrel_shifter.sv
+./../00_src/brc.sv
+./../00_src/control_unit.sv
+./../00_src/data_memory.sv
+./../00_src/decoder3_8.sv
+./../00_src/decoder_5_32.sv
+./../00_src/encoder_32_5.sv
+./../00_src/encoder_8_3.sv
+./../00_src/full_adder.sv
+./../00_src/imem.sv
+./../00_src/immgen.sv
+./../00_src/lsu.sv
+./../00_src/mux_2_1.sv
+./../00_src/mux_32_1.sv
+./../00_src/mux_4_1.sv
+./../00_src/register_file.sv
+./../00_src/single_cycle.sv

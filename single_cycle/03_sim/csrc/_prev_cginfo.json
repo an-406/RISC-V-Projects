@@ -1,0 +1,301 @@
+{
+    "NameTable": {
+        "mux_2_1": [
+            "mux_2_1",
+            "VLMv3",
+            "module",
+            9
+        ],
+        "add_subtract": [
+            "add_subtract",
+            "EsCL0",
+            "module",
+            3
+        ],
+        "std": [
+            "std",
+            "reYIK",
+            "module",
+            1
+        ],
+        "tb_brc": [
+            "tb_brc",
+            "WwWYQ",
+            "module",
+            2
+        ],
+        "encoder_8_3": [
+            "encoder_8_3",
+            "EWn3t",
+            "module",
+            7
+        ],
+        "brc": [
+            "brc",
+            "FcgEH",
+            "module",
+            4
+        ],
+        "...MASTER...": [
+            "SIM",
+            "amcQw",
+            "module",
+            13
+        ],
+        "decoder3_8": [
+            "decoder3_8",
+            "JHR7D",
+            "module",
+            5
+        ],
+        "single_cycle": [
+            "single_cycle",
+            "zJxCr",
+            "module",
+            12
+        ],
+        "mux_32_1": [
+            "mux_32_1",
+            "gp0Km",
+            "module",
+            10
+        ],
+        "encoder_32_5": [
+            "encoder_32_5",
+            "GxRBu",
+            "module",
+            6
+        ],
+        "full_adder": [
+            "full_adder",
+            "BEdzp",
+            "module",
+            8
+        ],
+        "register_4_bit": [
+            "register_4_bit",
+            "LqWtE",
+            "module",
+            11
+        ]
+    },
+    "MlibObjs": {},
+    "PrevCompiledModules": {
+        "brc": {
+            "FcgEH_d": {
+                "bytes": 15429,
+                "out": "FcgEH_d.o",
+                "mod": "brc",
+                "checksum": 0,
+                "mode": 4,
+                "archive": "archive.7/_prev_archive_1.a"
+            }
+        },
+        "full_adder": {
+            "BEdzp_d": {
+                "bytes": 9898,
+                "out": "BEdzp_d.o",
+                "mod": "full_adder",
+                "checksum": 0,
+                "mode": 4,
+                "archive": "archive.7/_prev_archive_1.a"
+            }
+        },
+        "encoder_32_5": {
+            "GxRBu_d": {
+                "bytes": 10334,
+                "out": "GxRBu_d.o",
+                "mod": "encoder_32_5",
+                "checksum": 0,
+                "mode": 4,
+                "archive": "archive.7/_prev_archive_1.a"
+            }
+        },
+        "mux_32_1": {
+            "gp0Km_d": {
+                "bytes": 45291,
+                "out": "gp0Km_d.o",
+                "mod": "mux_32_1",
+                "checksum": 0,
+                "mode": 4,
+                "archive": "archive.7/_prev_archive_1.a"
+            }
+        },
+        "single_cycle": {
+            "zJxCr_d": {
+                "bytes": 218790,
+                "out": "zJxCr_d.o",
+                "mod": "single_cycle",
+                "checksum": 0,
+                "mode": 4,
+                "archive": "archive.7/_prev_archive_1.a"
+            }
+        },
+        "std": {
+            "reYIK_d": {
+                "bytes": 41434,
+                "out": "reYIK_d.o",
+                "mod": "std",
+                "checksum": 0,
+                "mode": 4,
+                "archive": "archive.7/_prev_archive_1.a"
+            }
+        },
+        "mux_2_1": {
+            "VLMv3_d": {
+                "bytes": 9186,
+                "out": "VLMv3_d.o",
+                "mod": "mux_2_1",
+                "checksum": 0,
+                "mode": 4,
+                "archive": "archive.7/_prev_archive_1.a"
+            }
+        },
+        "add_subtract": {
+            "EsCL0_d": {
+                "bytes": 53701,
+                "out": "EsCL0_d.o",
+                "mod": "add_subtract",
+                "checksum": 0,
+                "mode": 4,
+                "archive": "archive.7/_prev_archive_1.a"
+            }
+        },
+        "encoder_8_3": {
+            "EWn3t_d": {
+                "bytes": 9964,
+                "out": "EWn3t_d.o",
+                "mod": "encoder_8_3",
+                "checksum": 0,
+                "mode": 4,
+                "archive": "archive.7/_prev_archive_1.a"
+            }
+        },
+        "tb_brc": {
+            "WwWYQ_d": {
+                "bytes": 20988,
+                "out": "WwWYQ_d.o",
+                "mod": "tb_brc",
+                "checksum": 0,
+                "mode": 4,
+                "archive": "archive.7/_prev_archive_1.a"
+            }
+        },
+        "...MASTER...": {
+            "amcQw_d": {
+                "bytes": 11336,
+                "out": "objs/amcQw_d.o",
+                "mod": "...MASTER...",
+                "checksum": 0,
+                "mode": 4
+            }
+        },
+        "decoder3_8": {
+            "JHR7D_d": {
+                "bytes": 10711,
+                "out": "JHR7D_d.o",
+                "mod": "decoder3_8",
+                "checksum": 0,
+                "mode": 4,
+                "archive": "archive.7/_prev_archive_1.a"
+            }
+        },
+        "register_4_bit": {
+            "LqWtE_d": {
+                "bytes": 11835,
+                "out": "LqWtE_d.o",
+                "mod": "register_4_bit",
+                "checksum": 0,
+                "mode": 4,
+                "archive": "archive.7/_prev_archive_1.a"
+            }
+        }
+    },
+    "CurCompileModules": [
+        "...MASTER...",
+        "std",
+        "tb_brc",
+        "add_subtract",
+        "brc",
+        "decoder3_8",
+        "encoder_32_5",
+        "encoder_8_3",
+        "full_adder",
+        "mux_2_1",
+        "mux_32_1",
+        "register_4_bit",
+        "single_cycle"
+    ],
+    "PEModules": [],
+    "CurCompileUdps": {},
+    "CompileStrategy": "fullobj",
+    "stat": {
+        "ru_self_cgstart": {
+            "ru_utime_sec": 0.604908,
+            "ru_stime_sec": 0.791879,
+            "ru_maxrss_kb": 69312,
+            "ru_nvcsw": 920,
+            "ru_minflt": 23448,
+            "ru_majflt": 893,
+            "ru_nivcsw": 79
+        },
+        "quadSpeed": 159039.30367086543,
+        "ru_childs_cgstart": {
+            "ru_utime_sec": 0.0,
+            "ru_stime_sec": 0.031995000000000003,
+            "ru_maxrss_kb": 19904,
+            "ru_nvcsw": 8,
+            "ru_minflt": 3670,
+            "ru_majflt": 0,
+            "ru_nivcsw": 16
+        },
+        "nMops": 31393,
+        "ru_self_end": {
+            "ru_utime_sec": 0.67889600000000005,
+            "ru_stime_sec": 0.96785200000000005,
+            "ru_maxrss_kb": 81004,
+            "ru_nvcsw": 977,
+            "ru_minflt": 27834,
+            "ru_majflt": 949,
+            "ru_nivcsw": 86
+        },
+        "nQuads": 11767,
+        "outputSizePerQuad": 9.9900569388969149,
+        "totalObjSize": 117553,
+        "ru_childs_end": {
+            "ru_utime_sec": 0.0,
+            "ru_stime_sec": 0.037994,
+            "ru_maxrss_kb": 22576,
+            "ru_nvcsw": 9,
+            "ru_minflt": 4201,
+            "ru_majflt": 0,
+            "ru_nivcsw": 18
+        },
+        "mopSpeed": 424298.53489755065,
+        "mop/quad": 2.667884762471318,
+        "CodeGen(%)": 10.898281916523302,
+        "Frontend(%)": 89.101718083476698,
+        "peak_mem_kb": 225856
+    },
+    "CompileStatus": "Successful",
+    "SIMBData": {
+        "out": "amcQwB.o",
+        "bytes": 117553,
+        "archive": "archive.7/_3587_archive_1.a"
+    },
+    "LVLData": [
+        "SIM"
+    ],
+    "CompileProcesses": [
+        "cgproc.3587.json"
+    ],
+    "Misc": {
+        "daidir_abs": "/mnt/hgfs/IC_projects/03_sim/simv.daidir",
+        "cwd": "/mnt/hgfs/IC_projects/03_sim",
+        "csrc_abs": "/mnt/hgfs/IC_projects/03_sim/csrc",
+        "csrc": "csrc",
+        "daidir": "simv.daidir",
+        "default_output_dir": "csrc",
+        "archive_dir": "archive.7"
+    }
+}

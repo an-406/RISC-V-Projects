@@ -1,0 +1,121 @@
+0 
+33
++itf+/home/albert/MyPrograms/synopsys/M-2017.03-SP2/linux64/lib/vcsdp_lite.tab
++vcsd1
++vpi
+-Mamsrun=
+-Masflags=
+-Mcc=gcc
+-Mcfl= -pipe -fPIC -O -I/home/albert/MyPrograms/synopsys/M-2017.03-SP2/include
+-Mcplusplus=g++
+-Mcrt0=
+-Mcrtn=
+-Mcsrc=
+-Mexternalobj=
+-Mldflags= -rdynamic
+-Mobjects= /home/albert/MyPrograms/synopsys/M-2017.03-SP2/linux64/lib/libvirsim.so /home/albert/MyPrograms/synopsys/M-2017.03-SP2/linux64/lib/liberrorinf.so /home/albert/MyPrograms/synopsys/M-2017.03-SP2/linux64/lib/libsnpsmalloc.so
+-Mout=simv
+-Msaverestoreobj=/home/albert/MyPrograms/synopsys/M-2017.03-SP2/linux64/lib/vcs_save_restore_new.o
+-Msyslibs=/home/albert/MyPrograms/synopsys/Verdi3_L-2016.06-1/share/PLI/VCS/LINUX64/pli.a -ldl
+-Mvcsaceobjs=
+-Mxcflags= -pipe -fPIC -I/home/albert/MyPrograms/synopsys/M-2017.03-SP2/include
+-P
+-debug_acc+fsdb
+-debug_access+all
+-f flist
+-fsdb
+-fsdb
+-full64
+-gen_obj
+-l
+-picarchive
+-sverilog
+/home/albert/MyPrograms/synopsys/M-2017.03-SP2/linux64/bin/vcs1
+/home/albert/MyPrograms/synopsys/Verdi3_L-2016.06-1/share/PLI/VCS/LINUX64/verdi.tab
+compile.log
+51
+sysc_uni_pwd=/home/albert/IC_projects/03_sim
+XDG_SESSION_COOKIE=bb95ea87782d0a3e6c8885280000000d-1788621013.874875-376327505
+XAUTHORITY=/var/run/gdm/auth-for-albert-FmDSl4/database
+WINDOWPATH=1
+VMR_MODE_FLAG=64
+VERDI_HOME=/home/albert/MyPrograms/synopsys/Verdi3_L-2016.06-1
+VCS_TARGET_ARCH=amd64
+VCS_MODE_FLAG=64
+VCS_LOG_FILE=compile.log
+VCS_HOME=/home/albert/MyPrograms/synopsys/M-2017.03-SP2
+VCS_DEPTH=0
+VCS_ARG_ADDED_FOR_TMP=1
+VCS_ARCH_OVERRIDE=linux
+VCS_ARCH=linux64
+USERNAME=albert
+UNAME=/bin/uname
+TOOL_HOME=/home/albert/MyPrograms/synopsys/M-2017.03-SP2/linux64
+SYNOPSYS=/home/albert/MyPrograms/synopsys/L-2016.03-SP1
+SSH_AUTH_SOCK=/tmp/keyring-Z15KgO/socket.ssh
+SSH_ASKPASS=/usr/libexec/openssh/gnome-ssh-askpass
+SNPS_VCS_CLANG_PATH=/fs/src/interfaces/LLVM_Project/QSCM/opt/llvm-3.9.1/linux64
+SESSION_MANAGER=local/unix:@/tmp/.ICE-unix/3076,unix/unix:/tmp/.ICE-unix/3076
+SCRNAME=vcs
+SCRIPT_NAME=vcs
+QTLIB=/usr/lib64/qt-3.3/lib
+QTINC=/usr/lib64/qt-3.3/include
+QTDIR=/usr/lib64/qt-3.3
+OVA_UUM=0
+ORBIT_SOCKETDIR=/tmp/orbit-albert
+MGLS_LICENSE_FILE=/home/albert/MyPrograms/synopsys/L-2016.03-SP1/Synopsys.dat
+MFLAGS=
+MAKELEVEL=1
+MAKEFLAGS=
+LESSOPEN=||/usr/bin/lesspipe.sh %s
+LC_HOME=/home/albert/MyPrograms/synopsys/M-2016.12
+LC_ALL=C
+HISTCONTROL=ignoredups
+G_BROKEN_FILENAMES=1
+GTK_RC_FILES=/etc/gtk/gtkrc:/home/albert/.gtkrc-1.2-gnome2
+GNOME_KEYRING_SOCKET=/tmp/keyring-Z15KgO/socket
+GNOME_KEYRING_PID=3066
+GNOME_DESKTOP_SESSION_ID=this-is-deprecated
+GIO_LAUNCHED_DESKTOP_FILE_PID=3296
+GIO_LAUNCHED_DESKTOP_FILE=/home/albert/Desktop/gnome-terminal.desktop
+GDM_LANG=en_US.UTF-8
+GDM_KEYBOARD_LAYOUT=us
+GDMSESSION=gnome
+DESKTOP_SESSION=gnome
+DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-8OR40HCFRk,guid=bb3439a71c56183b4d4ae64f00000040
+CVS_RSH=ssh
+COLORTERM=gnome-terminal
+0
+27
+1788576216 ./../00_src/single_cycle.sv
+1788572559 ./../00_src/register_file.sv
+1786020126 ./../00_src/prep_2_memory.sv
+1786020119 ./../00_src/prep_1_memory.sv
+1782920321 ./../00_src/mux_4_1.sv
+1785425997 ./../00_src/mux_32_1.sv
+1783008821 ./../00_src/mux_2_1.sv
+1786020010 ./../00_src/load_store_unit.sv
+1783263313 ./../00_src/immgen.sv
+1785258320 ./../00_src/imem.sv
+1783217447 ./../00_src/full_adder.sv
+1783355287 ./../00_src/encoder_8_3.sv
+1782657352 ./../00_src/encoder_32_5.sv
+1783218933 ./../00_src/decoder_5_32.sv
+1782612697 ./../00_src/decoder3_8.sv
+1786019986 ./../00_src/data_memory.sv
+1788544079 ./../00_src/control_unit.sv
+1785424775 ./../00_src/brc.sv
+1783220412 ./../00_src/barrel_shifter.sv
+1788516239 ./../00_src/alu.sv
+1784268849 ./../00_src/add_subtract.sv
+1785993936 ./../00_src/addr_decoder.sv
+1785424737 ./../00_src/add.sv
+1788621378 ./../01_tb/tb_alu.sv
+1788621502 flist
+1468145700 /home/albert/MyPrograms/synopsys/Verdi3_L-2016.06-1/share/PLI/VCS/LINUX64/verdi.tab
+1503457497 /home/albert/MyPrograms/synopsys/M-2017.03-SP2/linux64/lib/vcsdp_lite.tab
+4
+0 
+1503460271 /home/albert/MyPrograms/synopsys/M-2017.03-SP2/linux64/lib/libvirsim.so
+1503459205 /home/albert/MyPrograms/synopsys/M-2017.03-SP2/linux64/lib/liberrorinf.so
+1503459178 /home/albert/MyPrograms/synopsys/M-2017.03-SP2/linux64/lib/libsnpsmalloc.so
