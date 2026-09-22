@@ -1,0 +1,74 @@
+{
+    "mux_32_1": [
+        "mux_32_1",
+        "gp0Km",
+        "module",
+        10
+    ],
+    "tb_alu": [
+        "tb_alu",
+        "YRR5F",
+        "module",
+        14
+    ],
+    "std": [
+        "std",
+        "reYIK",
+        "module",
+        1
+    ],
+    "alu": [
+        "alu",
+        "C26kq",
+        "module",
+        15
+    ],
+    "add_subtract": [
+        "add_subtract",
+        "EsCL0",
+        "module",
+        3
+    ],
+    "encoder_32_5": [
+        "encoder_32_5",
+        "GxRBu",
+        "module",
+        6
+    ],
+    "...MASTER...": [
+        "SIM",
+        "amcQw",
+        "module",
+        13
+    ],
+    "decoder3_8": [
+        "decoder3_8",
+        "JHR7D",
+        "module",
+        5
+    ],
+    "encoder_8_3": [
+        "encoder_8_3",
+        "EWn3t",
+        "module",
+        7
+    ],
+    "mux_2_1": [
+        "mux_2_1",
+        "VLMv3",
+        "module",
+        9
+    ],
+    "full_adder": [
+        "full_adder",
+        "BEdzp",
+        "module",
+        8
+    ],
+    "single_cycle": [
+        "single_cycle",
+        "zJxCr",
+        "module",
+        12
+    ]
+}
